@@ -78,7 +78,7 @@ STAR_PREMIUM_PLANS = {
 # ============================
 # MongoDB Configuration
 # ============================
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Jarviscross:<Zd1H4zacy5f9wBZC>@jarvisdb.dpnwa49.mongodb.net/?appName=Jarvisdb")  # MongoDB URI for the database
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Jarviscross:<cwSSM19r6QCu4M5F>@jarvisdb.dpnwa49.mongodb.net/?appName=Jarvisdb")  # MongoDB URI for the database
 DATABASE_NAME = environ.get('DATABASE_NAME', "Jarviscross") # Database name (default: cluster)
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Jarvis_files') # Collection name (default: dreamcinezone_files)
 
