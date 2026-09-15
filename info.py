@@ -23,7 +23,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'jarvis')   # Session name for the bot
 API_ID = int(environ.get('API_ID', '34278720')) # API ID from my.telegram.org
 API_HASH = environ.get('API_HASH', '0c065d754887b9ad2ce42b65bf25c5da')  # API Hash from my.telegram.org
-BOT_TOKEN = environ.get('BOT_TOKEN', "")    # Bot token from @BotFather
+BOT_TOKEN = environ.get('BOT_TOKEN', "8503449880:AAGviFNLYYbiSr_Ki1TILjkk2F9Zi5Y7b1o")    # Bot token from @BotFather
 
 # ============================
 # Bot Settings Configuration
